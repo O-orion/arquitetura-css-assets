@@ -1,0 +1,8 @@
+.logo{
+    transition: all 1s ease-in-out ;
+}
+
+.logo:hover{
+    box-shadow: 10px 10px 20px rgb(187, 204, 212);
+    border-radius: 50%;
+}

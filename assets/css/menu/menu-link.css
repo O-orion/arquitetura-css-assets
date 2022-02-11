@@ -1,0 +1,9 @@
+.menu__link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu__link:hover {
+    border-bottom: 2px solid rgb(25, 118, 211);
+    border-radius: 2px;
+}

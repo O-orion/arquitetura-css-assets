@@ -1,0 +1,9 @@
+.cabecalho{
+    display: flex;
+    align-items: center;  /*Alinhando no meio */
+    justify-content: space-between; /*Espaçamento */
+
+    background-color: #f9f9f9;
+
+    padding: 0 2rem 0 2rem;
+}

@@ -1,0 +1,7 @@
+.banner{
+    position: relative; 
+    /*Estamos indicando que se um elemento position absolute, ele não deve ser
+     absoluto da pagina mas sim do seu elemento pai, que é o que tem position relative, relativo ao api
+     
+    */
+}
